@@ -6,3 +6,4 @@ class lab1
       System.out.println("Hello");
     }
   }
+public class demo{}
